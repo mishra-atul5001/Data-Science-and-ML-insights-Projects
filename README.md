@@ -21,3 +21,5 @@ Explored a DataSet recieved from Kaggle in order to perform Price Modelling, but
 6. # Telecom Churn 
 A Telecom company wanted to ensure to retain the customers which were more likely to Churn than investing on acquiring new customers.Hence using 3 months past data, had to predict the cutomers which were supposed to churn out in the month of September(4th Month). The models used were Logistic Regression with PCA, Random Forest with PCA and  Random Forest with all features.
 Also used the XGBOOST for obtaining more better and Suitable results.
+
+7. # Diabetes Prediction
