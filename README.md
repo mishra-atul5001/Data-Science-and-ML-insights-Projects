@@ -23,3 +23,6 @@ A Telecom company wanted to ensure to retain the customers which were more likel
 Also used the XGBOOST for obtaining more better and Suitable results.
 
 7. # Diabetes Prediction
+
+8. # GDP Analysis
+Performed GDP Exploration Analysis over the DataSet from IIIT B Assignment to find out the Top States having Highest GDP and GDP Per Capita. Also, explored the features/attributes which are contributing towards the creation of GDP for the state. Categorized the States into 4 segments with Ordered Category for more Analysis.
